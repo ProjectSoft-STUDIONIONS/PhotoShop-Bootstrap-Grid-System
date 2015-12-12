@@ -16,7 +16,7 @@ C:\Program Files (x86)\Adobe\Adobe Photoshop CS6
 
 C:\Program Files\Adobe\Adobe Photoshop CS6
 ### Запуск скрипта
-![Adobe Photoshop CS6 Extended](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_00.png)
+![Adobe Photoshop CS6 Extended](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_00_0.png)
 ### Окно настроек
 ![Bootstrap Grid System](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_01.png)
 ### Результат работы скрипта
