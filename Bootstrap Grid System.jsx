@@ -1,5 +1,5 @@
 // Copyright 2008. WEB GROUP ProjectSoft and STUDIONIONS.  All rights reserved.
-// Bootstrap Grid System (Dev).
+// Bootstrap Grid System.
 // Develop by ProjectSoft
 
 /**
@@ -9,7 +9,7 @@
 /*
 // BEGIN__HARVEST_EXCEPTION_ZSTRING
 <javascriptresource>
-	<name>$$$/JavaScripts/Bootstrap/MenuName=Bootstrap Сгенерировать сетку...</name>
+	<name>Bootstrap Сгенерировать сетку...</name>
 	<about>
 Скрипт автоматизации создания сетки Bootstrap в PhotoShop СS6-CC (возможно и ниже версии. Не тестировалось).
 Разработчик: ProjectSoft
