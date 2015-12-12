@@ -1,4 +1,4 @@
-// Copyright 2008. WEB GROUP STUDIONIONS.  All rights reserved.
+// Copyright 2008. WEB GROUP ProjectSoft and STUDIONIONS.  All rights reserved.
 // Bootstrap Grid System (Dev).
 // Develop by ProjectSoft
 
@@ -7,22 +7,27 @@
 */
 
 /*
-
 // BEGIN__HARVEST_EXCEPTION_ZSTRING
-
 <javascriptresource>
-<name>$$$/JavaScripts/Bootstrap/Menu=Сгенерировать сетку для Bootstrap...(Dev)</name>
+	<name>$$$/JavaScripts/Bootstrap/MenuName=Bootstrap Сгенерировать сетку...</name>
+	<about>
+Скрипт автоматизации создания сетки Bootstrap в PhotoShop СS6-CC (возможно и ниже версии. Не тестировалось).
+Разработчик: ProjectSoft
+https://github.com/ProjectSoft-STUDIONIONS/PhotoShop-Bootstrap-Grid-System/
+
+Copyright 2008. WEB GROUP «ProjectSoft and STUDIONIONS».  All rights reserved.
+	</about>
+	<category>0ps_bootstrap</category>
 </javascriptresource>
-
 // END__HARVEST_EXCEPTION_ZSTRING
-
 */
-
 
 #target photoshop
 #strict on
-
 app.bringToFront();
+
+
+
 
 var documentBootstrap,
 cols = 12,
@@ -225,20 +230,23 @@ NumericEditBlurHandler = function(event) {
 	}
 },
 gridDocument = function (w, c, o) {
-	var guid = documentBootstrap.guides;
-	var columns = parseFloat(w/c);
-
+	var columns = parseFloat(w/c),
+		guid = documentBootstrap.guides;
 	for(var i=0; i<c; i++){
-	var y = i*columns;
-	var y1 = y+o;
-	var y2 = y1+(columns-o*2);
-	guid.add (Direction.VERTICAL, y);
-	guid.add (Direction.VERTICAL, y1);
-	guid.add (Direction.VERTICAL, y2);
-	if(i == c-1){
-		guid.add (Direction.VERTICAL, w);
+		var y = i*columns,
+			y1 = y+o,
+			y2 = y1+(columns-o*2);
+		
+		guid.add (Direction.VERTICAL, y);
+		guid.add (Direction.VERTICAL, y1);
+		guid.add (Direction.VERTICAL, y2);
+		
+		if(i == c-1){
+			guid.add (Direction.VERTICAL, w);
+		}
+		
 	}
-	}
+	documentBootstrap.activeLayer.name = "Bootstrap Twitter Grids";
 },
 main = function() {
 	customBox.visible = false;
