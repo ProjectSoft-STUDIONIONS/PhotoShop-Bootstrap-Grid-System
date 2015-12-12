@@ -16,8 +16,8 @@ C:\Program Files (x86)\Adobe\Adobe Photoshop CS6
 
 C:\Program Files\Adobe\Adobe Photoshop CS6
 ### Запуск скрипта
-![Adobe Photoshop CS6 Extended](https://monosnap.com/file/igwOYef0juWFjYOmypwbC62oPybTYL.png)
+![Adobe Photoshop CS6 Extended](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_00.png)
 ### Окно настроек
-![Bootstrap Grid System](https://monosnap.com/file/WdECGRtB41D2fDHVCn7rfyBNLmczwt.png)
+![Bootstrap Grid System](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_01.png)
 ### Результат работы скрипта
-![My Site Template](https://monosnap.com/file/wZQlDopgLNMs0x7RkxzHUvhQCeyhop.png)
+![My Site Template](http://projectsoft-studionions.github.io/PhotoShop-Bootstrap-Grid-System/images/image_02.png)
