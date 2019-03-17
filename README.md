@@ -1,4 +1,6 @@
 # Preset Script PhotoShop CS6/CC Bootstrap Grid System
+[![](https://img.shields.io/github/downloads/ProjectSoft-STUDIONIONS/PhotoShop-Bootstrap-Grid-System/total.svg?label=%D0%A1%D0%9A%D0%90%D0%A7%D0%95%D0%9D%D0%9E&style=for-the-badge)](https://github.com/ProjectSoft-STUDIONIONS/PhotoShop-Bootstrap-Grid-System/archive/master.zip)
+
 Скрипт автоматизации создания сетки Bootstrap в PhotoShop СS6 - CC
 
 Протестировано на Windows 7, Mac
