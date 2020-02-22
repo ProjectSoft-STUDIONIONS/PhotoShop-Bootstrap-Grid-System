@@ -1,5 +1,7 @@
 # Preset Script PhotoShop CS6/CC Bootstrap Grid System
 
+[https://projectsoft.ru/blog/preset-bootstrap-photoshop/](https://projectsoft.ru/blog/preset-bootstrap-photoshop/)
+
 Скрипт автоматизации создания сетки Bootstrap в PhotoShop СS6 - CC
 
 Протестировано на Windows 7, Mac
